@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:05:57.023Z",
+  "updated": "2026-11-11T15:11:04.448Z",
   "stages": [
     {
       "id": "stage1",
@@ -40,15 +40,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "0909",
-          "code": "0909",
-          "semester": 1,
-          "title": "Gg",
-          "instructor": "Gg",
-          "sources": [],
-          "lectures": []
         }
       ]
     },
