@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T08:26:21.797Z",
+  "updated": "2026-11-12T08:26:42.539Z",
   "stages": [
     {
       "id": "stage1",
@@ -47,15 +47,6 @@
           "semester": 1,
           "title": "Sample",
           "instructor": "Sample",
-          "sources": [],
-          "lectures": []
-        },
-        {
-          "id": "000",
-          "code": "000",
-          "semester": 1,
-          "title": "Test",
-          "instructor": "Test",
           "sources": [],
           "lectures": []
         }
