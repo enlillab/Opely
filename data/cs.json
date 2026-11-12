@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T03:16:03.701Z",
+  "updated": "2026-11-12T03:17:27.147Z",
   "stages": [
     {
       "id": "stage1",
@@ -25,7 +25,21 @@
           "title": "Data Science",
           "instructor": "Rasha Abdullah",
           "sources": [],
-          "lectures": []
+          "lectures": [
+            {
+              "id": "lmwcz91bf",
+              "title": "Recording",
+              "date": "2026-11-12",
+              "summary": "",
+              "video": "",
+              "files": [
+                {
+                  "label": "01.pdf",
+                  "url": "files/cs/stage3/001/mwcz8z33-01.pdf"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
